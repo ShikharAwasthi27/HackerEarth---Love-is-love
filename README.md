@@ -1,4 +1,4 @@
-# Hackerearth---Love-is-love-
+# HackerEarth---Love-is-love-
 OCR &amp; Sentiment Classification
 
 Problem description: You work as a social media moderator for your firm. Your key responsibility is to tag uploaded content (images) during Pride Month based on its sentiment
